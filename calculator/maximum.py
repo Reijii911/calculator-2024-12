@@ -1,5 +1,5 @@
 """max"""
 
-def max(a, b):
+def maximum(a, b):
     """function for maximum"""
     return max(a, b)
